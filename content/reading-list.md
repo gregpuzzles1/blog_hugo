@@ -687,46 +687,6 @@ section.prose {
 		</div>
 	</article>
 	<article class="reading-card">
-		<img class="book-cover" src="/blog_hugo/images/CLMBooks/10 Rescuing the Lost Ones.jpg" alt="Cover of 10 Rescuing the Lost Ones">
-		<h3 class="book-title">10 Rescuing the Lost Ones</h3>
-		<div class="book-meta clm-meta">
-			<span class="book-meta-line"><span class="book-meta-label">Pages:</span> 96</span>
-			<span class="book-meta-line"><span class="book-meta-label">Size:</span> 2.85 MB</span>
-			<span class="book-meta-line"><span class="book-meta-label">Keywords:</span> rescuing, lost</span>
-			<span class="book-meta-line"><a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/10-Rescuing-the-Lost-Ones.pdf" target="_blank" rel="noopener noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/10-Rescuing-the-Lost-Ones.pdf" download>Download</a></span>
-		</div>
-	</article>
-	<article class="reading-card">
-		<img class="book-cover" src="/blog_hugo/images/CLMBooks/11 Reaching Out in Holy Love.jpg" alt="Cover of 11 Reaching Out in Holy Love">
-		<h3 class="book-title">11 Reaching Out in Holy Love</h3>
-		<div class="book-meta clm-meta">
-			<span class="book-meta-line"><span class="book-meta-label">Pages:</span> 85</span>
-			<span class="book-meta-line"><span class="book-meta-label">Size:</span> 1.36 MB</span>
-			<span class="book-meta-line"><span class="book-meta-label">Keywords:</span> reaching, out</span>
-			<span class="book-meta-line"><a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/11-Reaching-Out-in-Holy-Love.pdf" target="_blank" rel="noopener noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/11-Reaching-Out-in-Holy-Love.pdf" download>Download</a></span>
-		</div>
-	</article>
-	<article class="reading-card">
-		<img class="book-cover" src="/blog_hugo/images/CLMBooks/12 Surviving Lifes Hard Trials.jpg" alt="Cover of 12 Surviving Lifes Hard Trials">
-		<h3 class="book-title">12 Surviving Lifes Hard Trials</h3>
-		<div class="book-meta clm-meta">
-			<span class="book-meta-line"><span class="book-meta-label">Pages:</span> 90</span>
-			<span class="book-meta-line"><span class="book-meta-label">Size:</span> 2.57 MB</span>
-			<span class="book-meta-line"><span class="book-meta-label">Keywords:</span> surviving, lifes</span>
-			<span class="book-meta-line"><a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/12-Surviving-Lifes-Hard-Trials.pdf" target="_blank" rel="noopener noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/12-Surviving-Lifes-Hard-Trials.pdf" download>Download</a></span>
-		</div>
-	</article>
-	<article class="reading-card">
-		<img class="book-cover" src="/blog_hugo/images/CLMBooks/13 Maintaining the Life of Faith.jpg" alt="Cover of 13 Maintaining the Life of Faith">
-		<h3 class="book-title">13 Maintaining the Life of Faith</h3>
-		<div class="book-meta clm-meta">
-			<span class="book-meta-line"><span class="book-meta-label">Pages:</span> 123</span>
-			<span class="book-meta-line"><span class="book-meta-label">Size:</span> 3.88 MB</span>
-			<span class="book-meta-line"><span class="book-meta-label">Keywords:</span> maintaining, faith</span>
-			<span class="book-meta-line"><a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/13-Maintaining-the-Life-of-Faith.pdf" target="_blank" rel="noopener noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/13-Maintaining-the-Life-of-Faith.pdf" download>Download</a></span>
-		</div>
-	</article>
-	<article class="reading-card">
 		<img class="book-cover" src="/blog_hugo/images/CLMBooks/02 Practicing the Means of Grace.jpg" alt="Cover of 2 Practicing the Means of Grace">
 		<h3 class="book-title">2 Practicing the Means of Grace</h3>
 		<div class="book-meta clm-meta">
@@ -804,6 +764,46 @@ section.prose {
 			<span class="book-meta-line"><span class="book-meta-label">Size:</span> 1.53 MB</span>
 			<span class="book-meta-line"><span class="book-meta-label">Keywords:</span> mainting, various</span>
 			<span class="book-meta-line"><a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/09-Maintaining-Lifes-Various-Stewardship.pdf" target="_blank" rel="noopener noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/09-Maintaining-Lifes-Various-Stewardship.pdf" download>Download</a></span>
+		</div>
+	</article>
+	<article class="reading-card">
+		<img class="book-cover" src="/blog_hugo/images/CLMBooks/10 Rescuing the Lost Ones.jpg" alt="Cover of 10 Rescuing the Lost Ones">
+		<h3 class="book-title">10 Rescuing the Lost Ones</h3>
+		<div class="book-meta clm-meta">
+			<span class="book-meta-line"><span class="book-meta-label">Pages:</span> 96</span>
+			<span class="book-meta-line"><span class="book-meta-label">Size:</span> 2.85 MB</span>
+			<span class="book-meta-line"><span class="book-meta-label">Keywords:</span> rescuing, lost</span>
+			<span class="book-meta-line"><a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/10-Rescuing-the-Lost-Ones.pdf" target="_blank" rel="noopener noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/10-Rescuing-the-Lost-Ones.pdf" download>Download</a></span>
+		</div>
+	</article>
+	<article class="reading-card">
+		<img class="book-cover" src="/blog_hugo/images/CLMBooks/11 Reaching Out in Holy Love.jpg" alt="Cover of 11 Reaching Out in Holy Love">
+		<h3 class="book-title">11 Reaching Out in Holy Love</h3>
+		<div class="book-meta clm-meta">
+			<span class="book-meta-line"><span class="book-meta-label">Pages:</span> 85</span>
+			<span class="book-meta-line"><span class="book-meta-label">Size:</span> 1.36 MB</span>
+			<span class="book-meta-line"><span class="book-meta-label">Keywords:</span> reaching, out</span>
+			<span class="book-meta-line"><a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/11-Reaching-Out-in-Holy-Love.pdf" target="_blank" rel="noopener noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/11-Reaching-Out-in-Holy-Love.pdf" download>Download</a></span>
+		</div>
+	</article>
+	<article class="reading-card">
+		<img class="book-cover" src="/blog_hugo/images/CLMBooks/12 Surviving Lifes Hard Trials.jpg" alt="Cover of 12 Surviving Lifes Hard Trials">
+		<h3 class="book-title">12 Surviving Lifes Hard Trials</h3>
+		<div class="book-meta clm-meta">
+			<span class="book-meta-line"><span class="book-meta-label">Pages:</span> 90</span>
+			<span class="book-meta-line"><span class="book-meta-label">Size:</span> 2.57 MB</span>
+			<span class="book-meta-line"><span class="book-meta-label">Keywords:</span> surviving, lifes</span>
+			<span class="book-meta-line"><a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/12-Surviving-Lifes-Hard-Trials.pdf" target="_blank" rel="noopener noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/12-Surviving-Lifes-Hard-Trials.pdf" download>Download</a></span>
+		</div>
+	</article>
+	<article class="reading-card">
+		<img class="book-cover" src="/blog_hugo/images/CLMBooks/13 Maintaining the Life of Faith.jpg" alt="Cover of 13 Maintaining the Life of Faith">
+		<h3 class="book-title">13 Maintaining the Life of Faith</h3>
+		<div class="book-meta clm-meta">
+			<span class="book-meta-line"><span class="book-meta-label">Pages:</span> 123</span>
+			<span class="book-meta-line"><span class="book-meta-label">Size:</span> 3.88 MB</span>
+			<span class="book-meta-line"><span class="book-meta-label">Keywords:</span> maintaining, faith</span>
+			<span class="book-meta-line"><a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/13-Maintaining-the-Life-of-Faith.pdf" target="_blank" rel="noopener noreferrer">View</a> | <a href="https://pdfs.techtrailpulse.com/clmbooks/20260512/13-Maintaining-the-Life-of-Faith.pdf" download>Download</a></span>
 		</div>
 	</article>
 	<article class="reading-card">
