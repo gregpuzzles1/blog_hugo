@@ -1,0 +1,20 @@
+baseURL = 'http://localhost:1313/'
+locale = 'en-us'
+title = "Greg's Digital Library"
+theme = "blowfish"
+
+[menus]
+	[[menus.main]]
+		name = "Reading List"
+		pageRef = "/reading-list"
+		weight = 20
+
+	[[menus.main]]
+		name = "Puzzlemania"
+		pageRef = "/puzzlemania"
+		weight = 30
+
+[markup]
+	[markup.goldmark]
+		[markup.goldmark.renderer]
+			unsafe = true
