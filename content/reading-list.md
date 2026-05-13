@@ -677,7 +677,7 @@ section.prose {
 {{< tab label="CLM Books" md="false" >}}
 <div class="reading-grid">
 	<article class="reading-card">
-		<img class="book-cover" src="/blog_hugo/images/CLMBooks/1 Encountering the Living God.jpg" alt="Cover of 1 Encountering the Living God">
+		<img class="book-cover" src="/blog_hugo/images/CLMBooks/01 Encountering the Living God.jpg" alt="Cover of 1 Encountering the Living God">
 		<h3 class="book-title">1 Encountering the Living God</h3>
 		<div class="book-meta clm-meta">
 			<span class="book-meta-line"><span class="book-meta-label">Pages:</span> 115</span>
@@ -727,7 +727,7 @@ section.prose {
 		</div>
 	</article>
 	<article class="reading-card">
-		<img class="book-cover" src="/blog_hugo/images/CLMBooks/2 Practicing the Means of Grace.jpg" alt="Cover of 2 Practicing the Means of Grace">
+		<img class="book-cover" src="/blog_hugo/images/CLMBooks/02 Practicing the Means of Grace.jpg" alt="Cover of 2 Practicing the Means of Grace">
 		<h3 class="book-title">2 Practicing the Means of Grace</h3>
 		<div class="book-meta clm-meta">
 			<span class="book-meta-line"><span class="book-meta-label">Pages:</span> 88</span>
@@ -737,7 +737,7 @@ section.prose {
 		</div>
 	</article>
 	<article class="reading-card">
-		<img class="book-cover" src="/blog_hugo/images/CLMBooks/3 Pursuing a Holy Lifestyle.jpg" alt="Cover of 3 Pursuing a Holy Lifestyle">
+		<img class="book-cover" src="/blog_hugo/images/CLMBooks/03 Pursuing a Holy Lifestyle.jpg" alt="Cover of 3 Pursuing a Holy Lifestyle">
 		<h3 class="book-title">3 Pursuing a Holy Lifestyle</h3>
 		<div class="book-meta clm-meta">
 			<span class="book-meta-line"><span class="book-meta-label">Pages:</span> 85</span>
@@ -747,7 +747,7 @@ section.prose {
 		</div>
 	</article>
 	<article class="reading-card">
-		<img class="book-cover" src="/blog_hugo/images/CLMBooks/4 Battling Life's Multiple Temptations.jpg" alt="Cover of 4 Battling Life&#x27;s Multiple Temptations">
+		<img class="book-cover" src="/blog_hugo/images/CLMBooks/04 Battling Life's Multiple Temptations.jpg" alt="Cover of 4 Battling Life&#x27;s Multiple Temptations">
 		<h3 class="book-title">4 Battling Life&#x27;s Multiple Temptations</h3>
 		<div class="book-meta clm-meta">
 			<span class="book-meta-line"><span class="book-meta-label">Pages:</span> 89</span>
@@ -757,7 +757,7 @@ section.prose {
 		</div>
 	</article>
 	<article class="reading-card">
-		<img class="book-cover" src="/blog_hugo/images/CLMBooks/5 Practicing the Presence of God.jpg" alt="Cover of 5 Practicing the Presence of God">
+		<img class="book-cover" src="/blog_hugo/images/CLMBooks/05 Practicing the Presence of God.jpg" alt="Cover of 5 Practicing the Presence of God">
 		<h3 class="book-title">5 Practicing the Presence of God</h3>
 		<div class="book-meta clm-meta">
 			<span class="book-meta-line"><span class="book-meta-label">Pages:</span> 86</span>
@@ -767,7 +767,7 @@ section.prose {
 		</div>
 	</article>
 	<article class="reading-card">
-		<img class="book-cover" src="/blog_hugo/images/CLMBooks/6 Overcoming Obstacles to Christian Growth.jpg" alt="Cover of 6 Overcoming Obstacles to Christian Growth">
+		<img class="book-cover" src="/blog_hugo/images/CLMBooks/06 Overcoming Obstacles to Christian Growth.jpg" alt="Cover of 6 Overcoming Obstacles to Christian Growth">
 		<h3 class="book-title">6 Overcoming Obstacles to Christian Growth</h3>
 		<div class="book-meta clm-meta">
 			<span class="book-meta-line"><span class="book-meta-label">Pages:</span> 92</span>
@@ -777,7 +777,7 @@ section.prose {
 		</div>
 	</article>
 	<article class="reading-card">
-		<img class="book-cover" src="/blog_hugo/images/CLMBooks/7 Refocusing on Lifes Priorities.jpg" alt="Cover of 7 Refocusing on Lifes Priorities">
+		<img class="book-cover" src="/blog_hugo/images/CLMBooks/07 Refocusing on Lifes Priorities.jpg" alt="Cover of 7 Refocusing on Lifes Priorities">
 		<h3 class="book-title">7 Refocusing on Lifes Priorities</h3>
 		<div class="book-meta clm-meta">
 			<span class="book-meta-line"><span class="book-meta-label">Pages:</span> 91</span>
@@ -787,7 +787,7 @@ section.prose {
 		</div>
 	</article>
 	<article class="reading-card">
-		<img class="book-cover" src="/blog_hugo/images/CLMBooks/8 Appropriating the Power of Prayer and Faith.jpg" alt="Cover of 8 Appropriating the Power of Prayer and Faith">
+		<img class="book-cover" src="/blog_hugo/images/CLMBooks/08 Appropriating the Power of Prayer and Faith.jpg" alt="Cover of 8 Appropriating the Power of Prayer and Faith">
 		<h3 class="book-title">8 Appropriating the Power of Prayer and Faith</h3>
 		<div class="book-meta clm-meta">
 			<span class="book-meta-line"><span class="book-meta-label">Pages:</span> 82</span>
@@ -797,7 +797,7 @@ section.prose {
 		</div>
 	</article>
 	<article class="reading-card">
-		<img class="book-cover" src="/blog_hugo/images/CLMBooks/9 Mainting Life's Various Stewardship.jpg" alt="Cover of 9 Mainting Life&#x27;s Various Stewardship">
+		<img class="book-cover" src="/blog_hugo/images/CLMBooks/09 Mainting Life's Various Stewardship.jpg" alt="Cover of 9 Mainting Life&#x27;s Various Stewardship">
 		<h3 class="book-title">9 Mainting Life&#x27;s Various Stewardship</h3>
 		<div class="book-meta clm-meta">
 			<span class="book-meta-line"><span class="book-meta-label">Pages:</span> 86</span>
