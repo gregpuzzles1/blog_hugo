@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313/'
+baseURL = 'https://gregpuzzles1.github.io/blog_hugo/'
 locale = 'en-us'
 title = "Greg's Digital Library"
 theme = "blowfish"
