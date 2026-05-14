@@ -153,7 +153,7 @@ This tab showcases completed and in-progress wooden puzzles in a photo-first lay
 
 <div class="puzzlemania-wrap">
   <section class="puzzle-showcase">
-    <img class="puzzle-photo" src="/blog_hugo/images/Puzzles/20260513/12_Winterlands.jpg" alt="Picture of Winterlands by Liberty Puzzles">
+    <img class="puzzle-photo" src="/blog_hugo/images/Puzzles/12_Winterlands.jpg" alt="Picture of Winterlands by Liberty Puzzles">
     <div class="puzzle-meta">
       <h3 class="puzzle-title">12. Winterlands</h3>
       <div class="puzzle-line"><strong>Pieces:</strong> 524</div>
@@ -163,7 +163,7 @@ This tab showcases completed and in-progress wooden puzzles in a photo-first lay
   </section>
 
   <section class="puzzle-showcase">
-    <img class="puzzle-photo" src="/blog_hugo/images/Puzzles/20260513/11_After_Dark.jpg" alt="Picture of After Dark by Liberty Puzzles">
+    <img class="puzzle-photo" src="/blog_hugo/images/Puzzles/11_After_Dark.jpg" alt="Picture of After Dark by Liberty Puzzles">
     <div class="puzzle-meta">
       <h3 class="puzzle-title">11. After Dark</h3>
       <div class="puzzle-line"><strong>Pieces:</strong> 97</div>
@@ -173,7 +173,7 @@ This tab showcases completed and in-progress wooden puzzles in a photo-first lay
   </section>
 
   <section class="puzzle-showcase">
-    <img class="puzzle-photo" src="/blog_hugo/images/Puzzles/20260513/10_Train.jpg" alt="Picture of Locomotive by Quordel Puzzles">
+    <img class="puzzle-photo" src="/blog_hugo/images/Puzzles/10_Train.jpg" alt="Picture of Locomotive by Quordel Puzzles">
     <div class="puzzle-meta">
       <h3 class="puzzle-title">10. Train, Locomotive</h3>
       <div class="puzzle-line"><strong>Pieces:</strong> Approx 100</div>
@@ -183,7 +183,7 @@ This tab showcases completed and in-progress wooden puzzles in a photo-first lay
   </section>
 
   <section class="puzzle-showcase">
-    <img class="puzzle-photo" src="/blog_hugo/images/Puzzles/20260513/09_3D_Universe.jpg" alt="Picture of 3D Universe by Kaayee Puzzles">
+    <img class="puzzle-photo" src="/blog_hugo/images/Puzzles/09_3D_Universe.jpg" alt="Picture of 3D Universe by Kaayee Puzzles">
     <div class="puzzle-meta">
       <h3 class="puzzle-title">09. 3D Universe</h3>
       <div class="puzzle-line"><strong>Pieces:</strong> 100</div>
@@ -193,7 +193,7 @@ This tab showcases completed and in-progress wooden puzzles in a photo-first lay
   </section>
 
   <section class="puzzle-showcase">
-    <img class="puzzle-photo" src="/blog_hugo/images/Puzzles/20260513/08_Kite-Eating_Tree.jpg" alt="Picture of Kite-Eating Tree by Liberty Puzzles">
+    <img class="puzzle-photo" src="/blog_hugo/images/Puzzles/08_Kite-Eating_Tree.jpg" alt="Picture of Kite-Eating Tree by Liberty Puzzles">
     <div class="puzzle-meta">
       <h3 class="puzzle-title">08. Kite-Eating Tree</h3>
       <div class="puzzle-line"><strong>Pieces:</strong> 419</div>
@@ -203,7 +203,7 @@ This tab showcases completed and in-progress wooden puzzles in a photo-first lay
   </section>
 
   <section class="puzzle-showcase">
-    <img class="puzzle-photo" src="/blog_hugo/images/Puzzles/20260513/07_Colorado_Columbine.jpg" alt="Picture of Colorado Columbine by Liberty Puzzles">
+    <img class="puzzle-photo" src="/blog_hugo/images/Puzzles/07_Colorado_Columbine.jpg" alt="Picture of Colorado Columbine by Liberty Puzzles">
     <div class="puzzle-meta">
       <h3 class="puzzle-title">07. Colorado Columbine</h3>
       <div class="puzzle-line"><strong>Pieces:</strong> 108</div>
@@ -213,7 +213,7 @@ This tab showcases completed and in-progress wooden puzzles in a photo-first lay
   </section>
 
   <section class="puzzle-showcase">
-    <img class="puzzle-photo" src="/blog_hugo/images/Puzzles/20260513/06_Oh_the_Places_Youll_Go.jpg" alt="Picture of Oh the Places Youll Go by Liberty Puzzles">
+    <img class="puzzle-photo" src="/blog_hugo/images/Puzzles/06_Oh_the_Places_Youll_Go.jpg" alt="Picture of Oh the Places Youll Go by Liberty Puzzles">
     <div class="puzzle-meta">
       <h3 class="puzzle-title">06. Oh The Places You'll Go!</h3>
       <div class="puzzle-line"><strong>Pieces:</strong> 499</div>
@@ -223,7 +223,7 @@ This tab showcases completed and in-progress wooden puzzles in a photo-first lay
   </section>
 
   <section class="puzzle-showcase">
-    <img class="puzzle-photo" src="/blog_hugo/images/Puzzles/20260513/05_Spaldings_Baseball_Guide.jpg" alt="Picture of Spaldings Baseball Guide by Liberty Puzzles">
+    <img class="puzzle-photo" src="/blog_hugo/images/Puzzles/05_Spaldings_Baseball_Guide.jpg" alt="Picture of Spaldings Baseball Guide by Liberty Puzzles">
     <div class="puzzle-meta">
       <h3 class="puzzle-title">05. Spalding's Baseball Guide</h3>
       <div class="puzzle-line"><strong>Pieces:</strong> 411</div>
@@ -233,7 +233,7 @@ This tab showcases completed and in-progress wooden puzzles in a photo-first lay
   </section>
 
   <section class="puzzle-showcase">
-    <img class="puzzle-photo" src="/blog_hugo/images/Puzzles/20260513/04_Old_Woman_in_Shoe.jpg" alt="Picture of Old Woman in Shoe by Little Liberty Puzzles">
+    <img class="puzzle-photo" src="/blog_hugo/images/Puzzles/04_Old_Woman_in_Shoe.jpg" alt="Picture of Old Woman in Shoe by Little Liberty Puzzles">
     <div class="puzzle-meta">
       <h3 class="puzzle-title">04. Old Woman in Shoe</h3>
       <div class="puzzle-line"><strong>Pieces:</strong> 81</div>
@@ -243,7 +243,7 @@ This tab showcases completed and in-progress wooden puzzles in a photo-first lay
   </section>
 
   <section class="puzzle-showcase">
-    <img class="puzzle-photo" src="/blog_hugo/images/Puzzles/20260513/03_American_Express_Train.jpg" alt="Picture of American Express Train by Liberty Puzzles">
+    <img class="puzzle-photo" src="/blog_hugo/images/Puzzles/03_American_Express_Train.jpg" alt="Picture of American Express Train by Liberty Puzzles">
     <div class="puzzle-meta">
       <h3 class="puzzle-title">03. American Express Train</h3>
       <div class="puzzle-line"><strong>Pieces:</strong> 530</div>
@@ -253,7 +253,7 @@ This tab showcases completed and in-progress wooden puzzles in a photo-first lay
   </section>
 
   <section class="puzzle-showcase">
-    <img class="puzzle-photo" src="/blog_hugo/images/Puzzles/20260513/02_Turkey_Derby.jpg" alt="Picture of Turkey Derby by Liberty Puzzles">
+    <img class="puzzle-photo" src="/blog_hugo/images/Puzzles/02_Turkey_Derby.jpg" alt="Picture of Turkey Derby by Liberty Puzzles">
     <div class="puzzle-meta">
       <h3 class="puzzle-title">02. Turkey Derby</h3>
       <div class="puzzle-line"><strong>Pieces:</strong> 227</div>
@@ -263,7 +263,7 @@ This tab showcases completed and in-progress wooden puzzles in a photo-first lay
   </section>
 
   <section class="puzzle-showcase">
-    <img class="puzzle-photo" src="/blog_hugo/images/Puzzles/20260513/01_German_Butterflies.jpg" alt="Picture of German Butterflies by Liberty Puzzles">
+    <img class="puzzle-photo" src="/blog_hugo/images/Puzzles/01_German_Butterflies.jpg" alt="Picture of German Butterflies by Liberty Puzzles">
     <div class="puzzle-meta">
       <h3 class="puzzle-title">01. German Butterflies</h3>
       <div class="puzzle-line"><strong>Pieces:</strong> 251</div>
@@ -281,11 +281,11 @@ LEGO Architecture photos grouped by city.
   <h3 class="lego-city-title">New York City</h3>
   <div class="lego-city-grid">
     <figure class="lego-item">
-      <img src="/blog_hugo/images/LEGO/20260513/08_New_York_City.jpg" alt="Picture of New York City LEGO Architecture">
+      <img src="/blog_hugo/images/LEGO/08_New_York_City.jpg" alt="Picture of New York City LEGO Architecture">
       <figcaption>New York City</figcaption>
     </figure>
     <figure class="lego-item">
-      <img src="/blog_hugo/images/LEGO/20260513/09_New_York_City.jpg" alt="Picture of New York City LEGO Architecture">
+      <img src="/blog_hugo/images/LEGO/09_New_York_City.jpg" alt="Picture of New York City LEGO Architecture">
       <figcaption>New York City</figcaption>
     </figure>
   </div>
@@ -295,11 +295,11 @@ LEGO Architecture photos grouped by city.
   <h3 class="lego-city-title">Paris</h3>
   <div class="lego-city-grid">
     <figure class="lego-item">
-      <img src="/blog_hugo/images/LEGO/20260513/06_Paris.jpg" alt="Picture of Paris LEGO Architecture">
+      <img src="/blog_hugo/images/LEGO/06_Paris.jpg" alt="Picture of Paris LEGO Architecture">
       <figcaption>Paris</figcaption>
     </figure>
     <figure class="lego-item">
-      <img src="/blog_hugo/images/LEGO/20260513/07_Paris.jpg" alt="Picture of Paris LEGO Architecture">
+      <img src="/blog_hugo/images/LEGO/07_Paris.jpg" alt="Picture of Paris LEGO Architecture">
       <figcaption>Paris</figcaption>
     </figure>
   </div>
@@ -309,11 +309,11 @@ LEGO Architecture photos grouped by city.
   <h3 class="lego-city-title">Tokyo</h3>
   <div class="lego-city-grid">
     <figure class="lego-item">
-      <img src="/blog_hugo/images/LEGO/20260513/04_Tokyo.jpg" alt="Picture of Tokyo LEGO Architecture">
+      <img src="/blog_hugo/images/LEGO/04_Tokyo.jpg" alt="Picture of Tokyo LEGO Architecture">
       <figcaption>Tokyo</figcaption>
     </figure>
     <figure class="lego-item">
-      <img src="/blog_hugo/images/LEGO/20260513/05_Tokyo.jpg" alt="Picture of Tokyo LEGO Architecture">
+      <img src="/blog_hugo/images/LEGO/05_Tokyo.jpg" alt="Picture of Tokyo LEGO Architecture">
       <figcaption>Tokyo</figcaption>
     </figure>
   </div>
@@ -323,7 +323,7 @@ LEGO Architecture photos grouped by city.
   <h3 class="lego-city-title">London</h3>
   <div class="lego-city-grid">
     <figure class="lego-item">
-      <img src="/blog_hugo/images/LEGO/20260513/03_London.jpg" alt="Picture of London LEGO Architecture">
+      <img src="/blog_hugo/images/LEGO/03_London.jpg" alt="Picture of London LEGO Architecture">
       <figcaption>London</figcaption>
     </figure>
   </div>
@@ -333,11 +333,11 @@ LEGO Architecture photos grouped by city.
   <h3 class="lego-city-title">San Francisco</h3>
   <div class="lego-city-grid">
     <figure class="lego-item">
-      <img src="/blog_hugo/images/LEGO/20260513/02_San_Francisco.jpg" alt="Picture of San Francisco LEGO Architecture">
+      <img src="/blog_hugo/images/LEGO/02_San_Francisco.jpg" alt="Picture of San Francisco LEGO Architecture">
       <figcaption>San Francisco</figcaption>
     </figure>
     <figure class="lego-item">
-      <img src="/blog_hugo/images/LEGO/20260513/01_San_Francisco.jpg" alt="Picture of San Francisco LEGO Architecture">
+      <img src="/blog_hugo/images/LEGO/01_San_Francisco.jpg" alt="Picture of San Francisco LEGO Architecture">
       <figcaption>San Francisco</figcaption>
     </figure>
   </div>

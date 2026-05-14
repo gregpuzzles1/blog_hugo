@@ -417,7 +417,7 @@ section.prose {
 {{< tab label="Audio Books" md="false" >}}
 <div class="reading-grid">
 	<article class="reading-card">
-		<img class="book-cover" src="/blog_hugo/images/audio_books/20260505/32_LandscapesoftheSoul.jpg" alt="Landscapes of the Soul by Syd &amp; Geoff Holsclaw">
+		<img class="book-cover" src="/blog_hugo/images/audio_books/32_LandscapesoftheSoul.jpg" alt="Landscapes of the Soul by Syd &amp; Geoff Holsclaw">
 		<div class="book-meta">
 			<span class="book-meta-line"><span class="book-meta-label">Title:</span> Landscapes of the Soul</span>
 			<span class="book-meta-line"><span class="book-meta-label">Author:</span> Syd &amp; Geoff Holsclaw</span>
@@ -425,7 +425,7 @@ section.prose {
 		</div>
 	</article>
 	<article class="reading-card">
-		<img class="book-cover" src="/blog_hugo/images/audio_books/20260505/31_TheMountainisYou.jpg" alt="Cover of The Mountain is You by Brianna Wiest">
+		<img class="book-cover" src="/blog_hugo/images/audio_books/31_TheMountainisYou.jpg" alt="Cover of The Mountain is You by Brianna Wiest">
 		<div class="book-meta">
 			<span class="book-meta-line"><span class="book-meta-label">Title:</span> The Mountain is You</span>
 			<span class="book-meta-line"><span class="book-meta-label">Author:</span> Brianna Wiest</span>
@@ -433,7 +433,7 @@ section.prose {
 		</div>
 	</article>
 	<article class="reading-card">
-		<img class="book-cover" src="/blog_hugo/images/audio_books/20260505/30_Co-Intelligence.jpg" alt="Cover of Co-Intelligence by Ethan Mollick">
+		<img class="book-cover" src="/blog_hugo/images/audio_books/30_Co-Intelligence.jpg" alt="Cover of Co-Intelligence by Ethan Mollick">
 		<div class="book-meta">
 			<span class="book-meta-line"><span class="book-meta-label">Title:</span> Co-Intelligence</span>
 			<span class="book-meta-line"><span class="book-meta-label">Author:</span> Ethan Mollick</span>
@@ -441,7 +441,7 @@ section.prose {
 		</div>
 	</article>
 	<article class="reading-card">
-		<img class="book-cover" src="/blog_hugo/images/audio_books/20260505/29_TheDigitalMindset.jpg" alt="Cover of The Digital Mindset by Paul Leonardi &amp; Tsedal Neeley">
+		<img class="book-cover" src="/blog_hugo/images/audio_books/29_TheDigitalMindset.jpg" alt="Cover of The Digital Mindset by Paul Leonardi &amp; Tsedal Neeley">
 		<div class="book-meta">
 			<span class="book-meta-line"><span class="book-meta-label">Title:</span> The Digital Mindset</span>
 			<span class="book-meta-line"><span class="book-meta-label">Author:</span> Paul Leonardi &amp; Tsedal Neeley</span>
@@ -449,7 +449,7 @@ section.prose {
 		</div>
 	</article>
 	<article class="reading-card">
-		<img class="book-cover" src="/blog_hugo/images/audio_books/20260505/28_StaySaneinanInsaneWorld.jpg" alt="Cover of Stay Sane in an Insane World by Greg Harden">
+		<img class="book-cover" src="/blog_hugo/images/audio_books/28_StaySaneinanInsaneWorld.jpg" alt="Cover of Stay Sane in an Insane World by Greg Harden">
 		<div class="book-meta">
 			<span class="book-meta-line"><span class="book-meta-label">Title:</span> Stay Sane in an Insane World</span>
 			<span class="book-meta-line"><span class="book-meta-label">Author:</span> Greg Harden</span>
@@ -457,7 +457,7 @@ section.prose {
 		</div>
 	</article>
 	<article class="reading-card">
-		<img class="book-cover" src="/blog_hugo/images/audio_books/20260505/27_DigitalMinimalism.jpg" alt="Cover of Digital Minimalism by Cal Newport">
+		<img class="book-cover" src="/blog_hugo/images/audio_books/27_DigitalMinimalism.jpg" alt="Cover of Digital Minimalism by Cal Newport">
 		<div class="book-meta">
 			<span class="book-meta-line"><span class="book-meta-label">Title:</span> Digital Minimalism</span>
 			<span class="book-meta-line"><span class="book-meta-label">Author:</span> Cal Newport</span>
@@ -465,7 +465,7 @@ section.prose {
 		</div>
 	</article>
 	<article class="reading-card">
-		<img class="book-cover" src="/blog_hugo/images/audio_books/20260505/26_TheDataDetective.jpg" alt="Cover of The Data Detective by Tim Harford">
+		<img class="book-cover" src="/blog_hugo/images/audio_books/26_TheDataDetective.jpg" alt="Cover of The Data Detective by Tim Harford">
 		<div class="book-meta">
 			<span class="book-meta-line"><span class="book-meta-label">Title:</span> The Data Detective</span>
 			<span class="book-meta-line"><span class="book-meta-label">Author:</span> Tim Harford</span>
@@ -473,7 +473,7 @@ section.prose {
 		</div>
 	</article>
 	<article class="reading-card">
-		<img class="book-cover" src="/blog_hugo/images/audio_books/20260505/25_UnderaWhiteSkyTheNatureoftheFuture.jpg" alt="Cover of Under a White Sky: The Nature of the Future by Elizabeth Kolbert">
+		<img class="book-cover" src="/blog_hugo/images/audio_books/25_UnderaWhiteSkyTheNatureoftheFuture.jpg" alt="Cover of Under a White Sky: The Nature of the Future by Elizabeth Kolbert">
 		<div class="book-meta">
 			<span class="book-meta-line"><span class="book-meta-label">Title:</span> Under a White Sky</span>
 			<span class="book-meta-line"><span class="book-meta-label">Author:</span> Elizabeth Kolbert</span>
@@ -481,7 +481,7 @@ section.prose {
 		</div>
 	</article>
 	<article class="reading-card">
-		<img class="book-cover" src="/blog_hugo/images/audio_books/20260505/24_TheMythofExperience.jpg" alt="Cover of The Myth of Experience by Emre Soyer and Robin M. Hogarth">
+		<img class="book-cover" src="/blog_hugo/images/audio_books/24_TheMythofExperience.jpg" alt="Cover of The Myth of Experience by Emre Soyer and Robin M. Hogarth">
 		<div class="book-meta">
 			<span class="book-meta-line"><span class="book-meta-label">Title:</span> The Myth of Experience</span>
 			<span class="book-meta-line"><span class="book-meta-label">Author:</span> Emre Soyer &amp; Robin M. Hogarth</span>
@@ -489,7 +489,7 @@ section.prose {
 		</div>
 	</article>
 	<article class="reading-card">
-		<img class="book-cover" src="/blog_hugo/images/audio_books/20260505/23_HumorSeriously.jpg" alt="Cover of Humor, Seriously by Jennifer Aaker &amp; Naomi Bagdonas">
+		<img class="book-cover" src="/blog_hugo/images/audio_books/23_HumorSeriously.jpg" alt="Cover of Humor, Seriously by Jennifer Aaker &amp; Naomi Bagdonas">
 		<div class="book-meta">
 			<span class="book-meta-line"><span class="book-meta-label">Title:</span> Humor, Seriously</span>
 			<span class="book-meta-line"><span class="book-meta-label">Author:</span> Jennifer Aaker &amp; Naomi Bagdonas</span>
@@ -497,7 +497,7 @@ section.prose {
 		</div>
 	</article>
 	<article class="reading-card">
-		<img class="book-cover" src="/blog_hugo/images/audio_books/20260505/22_Abundance.jpg" alt="Cover of Abundance by Peter H. Diamandis &amp; Steven Kotler">
+		<img class="book-cover" src="/blog_hugo/images/audio_books/22_Abundance.jpg" alt="Cover of Abundance by Peter H. Diamandis &amp; Steven Kotler">
 		<div class="book-meta">
 			<span class="book-meta-line"><span class="book-meta-label">Title:</span> Abundance</span>
 			<span class="book-meta-line"><span class="book-meta-label">Author:</span> Peter H. Diamandis &amp; Steven Kotler</span>
@@ -505,7 +505,7 @@ section.prose {
 		</div>
 	</article>
 	<article class="reading-card">
-		<img class="book-cover" src="/blog_hugo/images/audio_books/20260505/21_Blackout.jpg" alt="Cover of Blackout by Candace Owens">
+		<img class="book-cover" src="/blog_hugo/images/audio_books/21_Blackout.jpg" alt="Cover of Blackout by Candace Owens">
 		<div class="book-meta">
 			<span class="book-meta-line"><span class="book-meta-label">Title:</span> Blackout</span>
 			<span class="book-meta-line"><span class="book-meta-label">Author:</span> Candace Owens</span>
@@ -513,7 +513,7 @@ section.prose {
 		</div>
 	</article>
 	<article class="reading-card">
-		<img class="book-cover" src="/blog_hugo/images/audio_books/20260505/20_SeaStories.jpg" alt="Cover of Sea Stories by William H. McRaven">
+		<img class="book-cover" src="/blog_hugo/images/audio_books/20_SeaStories.jpg" alt="Cover of Sea Stories by William H. McRaven">
 		<div class="book-meta">
 			<span class="book-meta-line"><span class="book-meta-label">Title:</span> Sea Stories</span>
 			<span class="book-meta-line"><span class="book-meta-label">Author:</span> William H. McRaven</span>
@@ -521,7 +521,7 @@ section.prose {
 		</div>
 	</article>
 	<article class="reading-card">
-		<img class="book-cover" src="/blog_hugo/images/audio_books/20260505/19_TheInfiniteGame.jpg" alt="Cover of The Infinite Game by Simon Sinek">
+		<img class="book-cover" src="/blog_hugo/images/audio_books/19_TheInfiniteGame.jpg" alt="Cover of The Infinite Game by Simon Sinek">
 		<div class="book-meta">
 			<span class="book-meta-line"><span class="book-meta-label">Title:</span> The Infinite Game</span>
 			<span class="book-meta-line"><span class="book-meta-label">Author:</span> Simon Sinek</span>
@@ -529,7 +529,7 @@ section.prose {
 		</div>
 	</article>
 	<article class="reading-card">
-		<img class="book-cover" src="/blog_hugo/images/audio_books/20260505/18_Range.jpg" alt="Cover of Range by David Epstein">
+		<img class="book-cover" src="/blog_hugo/images/audio_books/18_Range.jpg" alt="Cover of Range by David Epstein">
 		<div class="book-meta">
 			<span class="book-meta-line"><span class="book-meta-label">Title:</span> Range</span>
 			<span class="book-meta-line"><span class="book-meta-label">Author:</span> David Epstein</span>
@@ -537,7 +537,7 @@ section.prose {
 		</div>
 	</article>
 	<article class="reading-card">
-		<img class="book-cover" src="/blog_hugo/images/audio_books/20260505/17_IdentityTheft.jpg" alt="Cover of Identity Theft by Ron Cantor">
+		<img class="book-cover" src="/blog_hugo/images/audio_books/17_IdentityTheft.jpg" alt="Cover of Identity Theft by Ron Cantor">
 		<div class="book-meta">
 			<span class="book-meta-line"><span class="book-meta-label">Title:</span> Identity Theft</span>
 			<span class="book-meta-line"><span class="book-meta-label">Author:</span> Ron Cantor</span>
@@ -545,7 +545,7 @@ section.prose {
 		</div>
 	</article>
 	<article class="reading-card">
-		<img class="book-cover" src="/blog_hugo/images/audio_books/20260505/16_1776.jpg" alt="Cover of 1776 by David McCullough">
+		<img class="book-cover" src="/blog_hugo/images/audio_books/16_1776.jpg" alt="Cover of 1776 by David McCullough">
 		<div class="book-meta">
 			<span class="book-meta-line"><span class="book-meta-label">Title:</span> 1776</span>
 			<span class="book-meta-line"><span class="book-meta-label">Author:</span> David McCullough</span>
@@ -553,7 +553,7 @@ section.prose {
 		</div>
 	</article>
 	<article class="reading-card">
-		<img class="book-cover" src="/blog_hugo/images/audio_books/20260505/15_Upstream.jpg" alt="Cover of Upstream by Dan Heath">
+		<img class="book-cover" src="/blog_hugo/images/audio_books/15_Upstream.jpg" alt="Cover of Upstream by Dan Heath">
 		<div class="book-meta">
 			<span class="book-meta-line"><span class="book-meta-label">Title:</span> Upstream</span>
 			<span class="book-meta-line"><span class="book-meta-label">Author:</span> Dan Heath</span>
@@ -561,7 +561,7 @@ section.prose {
 		</div>
 	</article>
 	<article class="reading-card">
-		<img class="book-cover" src="/blog_hugo/images/audio_books/20260505/14_HowtoStopWorryingandStartLiving.jpg" alt="Cover of How to Stop Worrying and Start Living by Dale Carnegie">
+		<img class="book-cover" src="/blog_hugo/images/audio_books/14_HowtoStopWorryingandStartLiving.jpg" alt="Cover of How to Stop Worrying and Start Living by Dale Carnegie">
 		<div class="book-meta">
 			<span class="book-meta-line"><span class="book-meta-label">Title:</span> How to Stop Worrying and Start Living</span>
 			<span class="book-meta-line"><span class="book-meta-label">Author:</span> Dale Carnegie</span>
@@ -569,7 +569,7 @@ section.prose {
 		</div>
 	</article>
 	<article class="reading-card">
-		<img class="book-cover" src="/blog_hugo/images/audio_books/20260505/13_ThePrayerCoin.jpg" alt="Cover of The Prayer Coin by Elisa Morgan">
+		<img class="book-cover" src="/blog_hugo/images/audio_books/13_ThePrayerCoin.jpg" alt="Cover of The Prayer Coin by Elisa Morgan">
 		<div class="book-meta">
 			<span class="book-meta-line"><span class="book-meta-label">Title:</span> The Prayer Coin</span>
 			<span class="book-meta-line"><span class="book-meta-label">Author:</span> Elisa Morgan</span>
@@ -577,7 +577,7 @@ section.prose {
 		</div>
 	</article>
 	<article class="reading-card">
-		<img class="book-cover" src="/blog_hugo/images/audio_books/20260505/12_TalkingtoStrangers.jpg" alt="Cover of Talking to Strangers by Malcolm Gladwell">
+		<img class="book-cover" src="/blog_hugo/images/audio_books/12_TalkingtoStrangers.jpg" alt="Cover of Talking to Strangers by Malcolm Gladwell">
 		<div class="book-meta">
 			<span class="book-meta-line"><span class="book-meta-label">Title:</span> Talking to Strangers</span>
 			<span class="book-meta-line"><span class="book-meta-label">Author:</span> Malcolm Gladwell</span>
@@ -585,7 +585,7 @@ section.prose {
 		</div>
 	</article>
 	<article class="reading-card">
-		<img class="book-cover" src="/blog_hugo/images/audio_books/20260505/11_TheWrightBrothers.jpg" alt="Cover of The Wright Brothers by David McCullough">
+		<img class="book-cover" src="/blog_hugo/images/audio_books/11_TheWrightBrothers.jpg" alt="Cover of The Wright Brothers by David McCullough">
 		<div class="book-meta">
 			<span class="book-meta-line"><span class="book-meta-label">Title:</span> The Wright Brothers</span>
 			<span class="book-meta-line"><span class="book-meta-label">Author:</span> David McCullough</span>
@@ -593,7 +593,7 @@ section.prose {
 		</div>
 	</article>
 	<article class="reading-card">
-		<img class="book-cover" src="/blog_hugo/images/audio_books/20260505/10_TheCultureCode.jpg" alt="Cover of The Culture Code by Daniel Coyle">
+		<img class="book-cover" src="/blog_hugo/images/audio_books/10_TheCultureCode.jpg" alt="Cover of The Culture Code by Daniel Coyle">
 		<div class="book-meta">
 			<span class="book-meta-line"><span class="book-meta-label">Title:</span> The Culture Code</span>
 			<span class="book-meta-line"><span class="book-meta-label">Author:</span> Daniel Coyle</span>
@@ -601,7 +601,7 @@ section.prose {
 		</div>
 	</article>
 	<article class="reading-card">
-		<img class="book-cover" src="/blog_hugo/images/audio_books/20260505/09_TheSoulofaTeam.jpg" alt="Cover of The Soul of a Team by Tony Dungy">
+		<img class="book-cover" src="/blog_hugo/images/audio_books/09_TheSoulofaTeam.jpg" alt="Cover of The Soul of a Team by Tony Dungy">
 		<div class="book-meta">
 			<span class="book-meta-line"><span class="book-meta-label">Title:</span> The Soul of a Team</span>
 			<span class="book-meta-line"><span class="book-meta-label">Author:</span> Tony Dungy</span>
@@ -609,7 +609,7 @@ section.prose {
 		</div>
 	</article>
 	<article class="reading-card">
-		<img class="book-cover" src="/blog_hugo/images/audio_books/20260505/08ThePioneers.jpg" alt="Cover of The Pioneers by David McCullough">
+		<img class="book-cover" src="/blog_hugo/images/audio_books/08ThePioneers.jpg" alt="Cover of The Pioneers by David McCullough">
 		<div class="book-meta">
 			<span class="book-meta-line"><span class="book-meta-label">Title:</span> The Pioneers</span>
 			<span class="book-meta-line"><span class="book-meta-label">Author:</span> David McCullough</span>
@@ -617,7 +617,7 @@ section.prose {
 		</div>
 	</article>
 	<article class="reading-card">
-		<img class="book-cover" src="/blog_hugo/images/audio_books/20260505/07_WeaponsofMathDestruction.jpg" alt="Cover of Weapons of Math Destruction by Cathy O&#39;Neil">
+		<img class="book-cover" src="/blog_hugo/images/audio_books/07_WeaponsofMathDestruction.jpg" alt="Cover of Weapons of Math Destruction by Cathy O&#39;Neil">
 		<div class="book-meta">
 			<span class="book-meta-line"><span class="book-meta-label">Title:</span> Weapons of Math Destruction</span>
 			<span class="book-meta-line"><span class="book-meta-label">Author:</span> Cathy O&#39;Neil</span>
@@ -625,7 +625,7 @@ section.prose {
 		</div>
 	</article>
 	<article class="reading-card">
-		<img class="book-cover" src="/blog_hugo/images/audio_books/20260505/06_ThisistheDay.jpg" alt="Cover of This is The Day by Tim Tebow">
+		<img class="book-cover" src="/blog_hugo/images/audio_books/06_ThisistheDay.jpg" alt="Cover of This is The Day by Tim Tebow">
 		<div class="book-meta">
 			<span class="book-meta-line"><span class="book-meta-label">Title:</span> This is The Day</span>
 			<span class="book-meta-line"><span class="book-meta-label">Author:</span> Tim Tebow</span>
@@ -633,7 +633,7 @@ section.prose {
 		</div>
 	</article>
 	<article class="reading-card">
-		<img class="book-cover" src="/blog_hugo/images/audio_books/20260505/05_DavidandGoliath.jpg" alt="Cover of David and Goliath by Malcolm Gladwell">
+		<img class="book-cover" src="/blog_hugo/images/audio_books/05_DavidandGoliath.jpg" alt="Cover of David and Goliath by Malcolm Gladwell">
 		<div class="book-meta">
 			<span class="book-meta-line"><span class="book-meta-label">Title:</span> David and Goliath</span>
 			<span class="book-meta-line"><span class="book-meta-label">Author:</span> Malcolm Gladwell</span>
@@ -641,7 +641,7 @@ section.prose {
 		</div>
 	</article>
 	<article class="reading-card">
-		<img class="book-cover" src="/blog_hugo/images/audio_books/20260505/04_MakeYourBed.jpg" alt="Cover of Make Your Bed by William H. McRaven">
+		<img class="book-cover" src="/blog_hugo/images/audio_books/04_MakeYourBed.jpg" alt="Cover of Make Your Bed by William H. McRaven">
 		<div class="book-meta">
 			<span class="book-meta-line"><span class="book-meta-label">Title:</span> Make Your Bed</span>
 			<span class="book-meta-line"><span class="book-meta-label">Author:</span> William H. McRaven</span>
@@ -649,7 +649,7 @@ section.prose {
 		</div>
 	</article>
 	<article class="reading-card">
-		<img class="book-cover" src="/blog_hugo/images/audio_books/20260505/03_Ketofast.jpg" alt="Cover of Ketofast by Dr. Joseph Mercola">
+		<img class="book-cover" src="/blog_hugo/images/audio_books/03_Ketofast.jpg" alt="Cover of Ketofast by Dr. Joseph Mercola">
 		<div class="book-meta">
 			<span class="book-meta-line"><span class="book-meta-label">Title:</span> Ketofast</span>
 			<span class="book-meta-line"><span class="book-meta-label">Author:</span> Dr. Joseph Mercola</span>
@@ -657,7 +657,7 @@ section.prose {
 		</div>
 	</article>
 	<article class="reading-card">
-		<img class="book-cover" src="/blog_hugo/images/audio_books/20260505/02_TheAgingBrain.jpg" alt="Cover of The Aging Brain by Timothy R. Jennings, MD">
+		<img class="book-cover" src="/blog_hugo/images/audio_books/02_TheAgingBrain.jpg" alt="Cover of The Aging Brain by Timothy R. Jennings, MD">
 		<div class="book-meta">
 			<span class="book-meta-line"><span class="book-meta-label">Title:</span> The Aging Brain</span>
 			<span class="book-meta-line"><span class="book-meta-label">Author:</span> Timothy R. Jennings, MD</span>
@@ -665,7 +665,7 @@ section.prose {
 		</div>
 	</article>
 	<article class="reading-card">
-		<img class="book-cover" src="/blog_hugo/images/audio_books/20260505/01_Shaken.jpg" alt="Cover of Shaken by Tim Tebow">
+		<img class="book-cover" src="/blog_hugo/images/audio_books/01_Shaken.jpg" alt="Cover of Shaken by Tim Tebow">
 		<div class="book-meta">
 			<span class="book-meta-line"><span class="book-meta-label">Title:</span> Shaken</span>
 			<span class="book-meta-line"><span class="book-meta-label">Author:</span> Tim Tebow</span>
