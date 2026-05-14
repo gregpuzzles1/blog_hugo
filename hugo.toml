@@ -1,11 +1,11 @@
 baseURL = 'https://gregpuzzles1.github.io/blog_hugo/'
 locale = 'en-us'
-title = "Greg's Digital Library"
+title = "Tech Trail Pulse"
 theme = "blowfish"
 
 [menus]
 	[[menus.main]]
-		name = "Reading List"
+		name = "Reading Trail"
 		pageRef = "/reading-list"
 		weight = 20
 
@@ -18,3 +18,7 @@ theme = "blowfish"
 	[markup.goldmark]
 		[markup.goldmark.renderer]
 			unsafe = true
+
+[params.homepage]
+	layout = "page"
+	showRecent = false
