@@ -1,0 +1,5 @@
+/* Make the header favicon logo larger next to the site title. */
+.main-menu .logo {
+  max-height: 5.5em !important;
+  max-width: 5.5em !important;
+}

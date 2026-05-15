@@ -25,6 +25,7 @@ theme = "blowfish"
 			unsafe = true
 
 [params]
+	logo = "favicon.PNG"
 	copyright = "&copy; { year } Greg Christian - [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
 
 [params.homepage]
