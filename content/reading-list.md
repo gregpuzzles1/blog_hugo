@@ -675,6 +675,17 @@ section.prose {
 </div>
 {{< /tab >}}
 {{< tab label="CLM Books" md="false" >}}
+<div class="clm-intro" style="margin-bottom: 1.25rem;">
+	<p>
+		CLM stands for Christian Living Ministries. That is where CLM Books comes from. Christian Living Ministries is an evangelical ministry started by my Uncle Ron.
+	</p>
+	<p>
+		Uncle Ron, an earlier Free Methodist pastor, has authored and compiled many Christian devotional books. Some are available for viewing or downloading on this site.
+	</p>
+	<p>
+		The first 13 books in the "Growing A Godly Life" series are designed to be studied in one year, 4 weeks per book.
+	</p>
+</div>
 <div class="reading-grid">
 	<article class="reading-card">
 		<img class="book-cover" src="/blog_hugo/images/CLMBooks/01 Encountering the Living God.jpg" alt="Cover of 1 Encountering the Living God">

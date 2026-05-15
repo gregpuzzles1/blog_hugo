@@ -5,6 +5,11 @@ theme = "blowfish"
 
 [menus]
 	[[menus.main]]
+		name = "About"
+		pageRef = "/about"
+		weight = 10
+
+	[[menus.main]]
 		name = "Reading Trail"
 		pageRef = "/reading-list"
 		weight = 20
@@ -18,6 +23,9 @@ theme = "blowfish"
 	[markup.goldmark]
 		[markup.goldmark.renderer]
 			unsafe = true
+
+[params]
+	copyright = "&copy; { year } Greg Christian - [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
 
 [params.homepage]
 	layout = "page"
