@@ -26,8 +26,12 @@ theme = "blowfish"
 
 [params]
 	logo = "favicon.PNG"
+	enableSearch = true
 	copyright = "&copy; { year } Greg Christian - [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
 
 [params.homepage]
 	layout = "page"
 	showRecent = false
+
+[outputs]
+	home = ["HTML", "RSS", "JSON"]
